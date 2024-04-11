@@ -1,7 +1,7 @@
 <!-- NinjA OS - Custom ROM README.md -->
 
 <p align="center">
-  <img src="https://ibb.co/j8V7Phq.jpg" />
+  <img src="https://i.imgur.com/gcOvt3T.png" />
 </p>
 
 ### Welcome to NinjA OS - Android 14 Edition 📱
@@ -74,5 +74,5 @@ UPI: noobninja@oksbi
 <br>
 
 <p align="center">
-  <img src="[https://www.techlusive.in/wp-content/uploads/2022/03/Android-14-Developer-Preview-1-1.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techlusive.in%2Fnews%2Fandroid-14-developer-preview-1-released-for-google-pixel-phones-1348612%2F&psig=AOvVaw3LqMv79-I8_20fdREeXadz&ust=1712946273282000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj8hbPkuoUDFQAAAAAdAAAAABAE)" />
+  <img src="https://i.imgur.com/zY1Znpm.png" />
 </p>
