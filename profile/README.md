@@ -69,7 +69,7 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
 ### Help to keep NinjA OS active and running by donating. 
 Any amount is appreciated. 
 
-[UPI: noobninja@oksbi](upi://pay?pa=noobninja@oksbi)
+UPI: noobninja@oksbi
 
 <br>
 
