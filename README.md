@@ -4,73 +4,68 @@
   <img src="https://i.imgur.com/gcOvt3T.png" />
 </p>
 
-### Introducing NinjA OS now based on Android 14 シ
+### Welcome to NinjA OS - Android 14 Edition 📱
 
-<p>"Redefining your Android experience with our new update which offers minimal UI enhancement and a close-to-stock Android experience with customization."</p>
+<p>"Experience the evolution of Android with NinjA OS! Our latest update introduces minimal UI enhancements, delivering a seamless and customizable stock Android experience."</p>
 
-A screenshot is worth a thousand words so don't forget to checkout our [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectelixiros.com/gallery)
+Explore the power of NinjA OS through our captivating [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectninjaos.com/gallery). Let the screenshots speak for themselves!
 
 ### ⊀ Unleash Innovation ⊁
 
-Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience.
+Embark on a journey of innovation with NinjA OS. Our ROM ensures a buttery-smooth Android experience without compromising quality.
 
 [![Download NinjA OS [Custom ROM]](https://img.shields.io/sourceforge/dm/ninja-os.svg)](https://projectninjaos.com/download) <img src="https://komarev.com/ghpvc/?username=Project-NinjA&style=flat-square" alt="Project-NinjA" />  [![Download NinjA OS [Custom ROM]](https://img.shields.io/sourceforge/dt/ninja-os.svg)](https://projectninjaos.com/download) 
 
-NinjA OS is an AOSP-based custom Android ROM with great performance, security, and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+NinjA OS stands as a testament to AOSP-based custom ROMs, offering unparalleled performance, security, and stability. Join us today and immerse yourself in the beauty of stock Android. 
 
 > [!CAUTION]
 > - Your warranty is void. Or valid, probably?
-> - NinjA OS is not responsible for any damage you made to your device. You have been warned!
+> - NinjA OS holds no liability for any device damage caused by user actions.
 
 > [!Warning]
-> * We are not responsible for anything that may happen to your phone by installing custom ROMs.
-> * We are not responsible for anything that may happen to your phone by installing any kernels.
-> * You do it at your own risk and take the responsibility upon yourself
-> * You are not to blame NinjA OS or its respected developers for any of your loss.
+> * Installing custom ROMs or kernels may carry risks.
+> * User discretion is advised; proceed with caution.
 
 > [!Tip]
-> **Basic Notes for all users:**  
-> * The provided instructions are for NinjA OS based on Android 14.
-> * These will only work if you follow every section and step precisely
-> * Do not continue after something fails! Contact in support group for help
-> * The device must have an unlocked bootloader & has Platform Tools installed on PC.
-> * If you are moving from any other Android version to Android 14, it is necessary to do CLEAN FLASH (Format Data)
-> * Take a backup for the safe side (If you are coming from an older Android version or doing a clean flash)
-> * For any queries or help related to NinjA OS, join our support group : [Tap Here](https://telegram.me/noobninja_os)  
+> **Guidelines for Users:**  
+> * Follow instructions meticulously for a successful installation.
+> * Contact our support group if issues arise during the process.
+> * Ensure an unlocked bootloader and necessary tools on your PC.
 
-### Official Git Organization / Repos
+### Explore Our Git Repositories
 * [**NinjA OS Manifest**](https://github.com/Project-NinjA/manifest)
 * [**NinjA OS Vendor**](https://github.com/Project-NinjA/vendor_aosp)
 * [**NinjA OS Devices**](https://github.com/ProjectNinjA-Devices)
-* You may use this [**commit**](https://github.com/ProjectNinjA-Devices/device_xiaomi_sweet/commit/7e3fd483f02bf4f8a5d23c35b6f1692aec35a2fb) as a reference.
+* Use this [**commit**](https://github.com/ProjectNinjA-Devices/device_xiaomi_sweet/commit/7e3fd483f02bf4f8a5d23c35b6f1692aec35a2fb) as a reference.
 
 > [!Important]
-> **Some important links below**
+> **Key Links for NinjA OS**
 > * [**Maintainers Requirements**](https://projectninjaos.com/documentation)
 > * [**Device Requirements**](https://projectninjaos.com/documentation)
 > * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
 > * [**XDA Template**](https://raw.githubusercontent.com/Project-NinjA/docs/Tiramisu/xda_template.txt)
 
-### Official Support Group & Channel
+### Join Our Support Community
  * [**NinjA OS Telegram Channel**](https://telegram.me/noobninja_os)
  * [**NinjA OS Telegram Group**](https://telegram.me/noobninja_os)
  
-Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/noobninja_os) Support Group!
+Already a member? Feel free to reach out in our [**Telegram**](https://telegram.me/noobninja_os) Support Group for assistance!
 
-### Official Website and Downloads
+### Discover More on Our Official Website
  * [**NinjA OS Website**](https://projectninjaos.com/)
- * [**NinjA OS Team**](https://projectninjaos.com/team)
- * [**NinjA OS Downloads**](https://projectninjaos.com/download)
- * [**NinjA OS Changelog**](https://projectninjaos.com/changelog)
+ * [**Meet the NinjA OS Team**](https://projectninjaos.com/team)
+ * [**Download NinjA OS**](https://projectninjaos.com/download)
+ * [**Explore the NinjA OS Changelog**](https://projectninjaos.com/changelog)
 
-### Contact in Emergency
-* [**Saurav - Founder/Lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
+### Emergency Contact Information
+* [**Saurav - Founder/Lead Dev**](https://telegram.me/nooobninja) - [**[Github Profile]**](https://github.com/Divith123)
 
 > [!Note] 
-> * For urgent needs, feel free to contact us on provided links. And for personal build requests, Patreon, donations, suggestions, sponsorship, personal device support, join our Telegram group or respective platforms like Patreon chat. Don't PM unnecessarily !!
+> * For urgent inquiries or support, use the provided contact links.
+> * Support our project by contributing, donating, or joining our community platforms.
 
-### Help to keep NinjA OS active and running by donating. 
-Any amount is appreciated.シ
+### Support NinjA OS's Development
+Any contribution is greatly appreciated. Help us keep NinjA OS alive and thriving!
 
 <br>
 
