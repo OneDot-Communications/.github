@@ -1,7 +1,7 @@
 <!-- NinjA OS - Custom ROM README.md -->
 
 <p align="center">
-  <img src="https://ibb.co/S6gcxCz" />
+  <img src="https://i.ibb.co/dfvtcYR/wallpaperflare-com-wallpaper-2.jpg" />
 </p>
 
 ### Welcome to NinjA OS - Android 14 Edition 📱
