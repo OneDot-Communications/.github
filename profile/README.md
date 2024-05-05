@@ -61,8 +61,8 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
  * [**Andromeda OS Changelog**](https://projectninjaos.com/changelog)
 
 ### Contact in Emergency
-* [**Divith S (NinjA) - Lead Developer**](https://telegram.me/ninjaonsteroids) - [**[GitHub Profile]**](https://github.com/Divith123)
-* [**Krishneshwaran D ( BatmaN - Lead Developer**](https://telegram.me/batmanonweeds) - [**[GitHub Profile]**](https://github.com/Divith123)
+* [**Divith S ( NinjA ) - Lead Developer**](https://telegram.me/ninjaonsteroids) - [**[GitHub Profile]**](https://github.com/Divith123)
+* [**Krishneshwaran D ( BatmaN ) - Lead Developer**](https://telegram.me/batmanonweeds) - [**[GitHub Profile]**](https://github.com/Divith123)
   
 > [!Note] 
 > * For urgent needs, feel free to contact us on provided links. And for personal build requests, Patreon, donations, suggestions, sponsorship, personal device support, join our Telegram group or respective platforms like Patreon chat. Don't PM unnecessarily !!
