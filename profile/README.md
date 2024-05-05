@@ -1,7 +1,7 @@
 <!-- NinjA OS - Custom ROM README.md -->
 
 <p align="center">
-  <img src="https://i.ibb.co/dfvtcYR/wallpaperflare-com-wallpaper-2.jpg" />
+  <img src="https://i.ibb.co/X56zB1t/image-1.png" />
 </p>
 
 ### Welcome to NinjA OS - Android 14 Edition 📱
@@ -74,5 +74,5 @@ UPI: noobninja@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/zY1Znpm.png" />
+  <img src="https://i.ibb.co/X56zB1t/image-1.png" />
 </p>
