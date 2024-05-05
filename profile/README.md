@@ -1,7 +1,7 @@
 <!-- NinjA OS - Custom ROM README.md -->
 
 <p align="center">
-  <img src="https://imgur.com/Fuac6sK" />
+  <img src="https://imgur.com/a/V2yhUND.png" />
 </p>
 
 ### Welcome to NinjA OS - Android 14 Edition 📱
