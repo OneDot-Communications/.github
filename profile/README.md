@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/RgN0MXR/Artboard-1-100.jpg" alt="OneDot Communication Ltd Logo" width="300"/>
 </p>
 
-<p align="center"> <strong> OneDot Communications Ltd</strong> </p> <p align="center"> <em>"AI can't take over us; We take over AI...!"</em> </p>
+<p align="center"> <strong> OneDot Communications Ltd</strong> </h1> <p align="center"> <em>"AI can't take over us; We take over AI...!"</em> </p>
 
 ### **About Us**
 
