@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/X56zB1t/image-1.png" alt="OneDot Communication Ltd Logo"/>
+  <img src="https://i.ibb.co/RgN0MXR/Artboard-1-100.jpg" alt="OneDot Communication Ltd Logo"/>
 </p>
 
 
@@ -81,7 +81,7 @@ Help us continue to innovate and improve by supporting our mission. Every contri
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/X56zB1t/image-1.png" alt="OneDot Communication Ltd Logo"/>
+  <img src="https://i.ibb.co/RgN0MXR/Artboard-1-100.jpg" alt="OneDot Communication Ltd Logo"/>
 </p>
 
 ---
