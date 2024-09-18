@@ -3,7 +3,7 @@
 </p>
 
 
-# 🚀 **Welcome to OneDot Communication Ltd** 
+# **Welcome to OneDot Communications Ltd** 
 
 **"AI can't take over us; We take over AI...!"** 🤖💪
 
