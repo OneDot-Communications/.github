@@ -72,8 +72,3 @@ Support our mission to advance technology and achieve new milestones. Your contr
 - **[Become a Sponsor](#)** - Explore opportunities to partner with us as a sponsor.
 
 ---
-
-<p align="center">
-  <img src="https://i.ibb.co/RgN0MXR/Artboard-1-100.jpg" alt="OneDot Communication Ltd Logo" width="300"/>
-</p>
-
