@@ -1,78 +1,87 @@
-<!-- Andromeda OS - Custom ROM README.md -->
-
 <p align="center">
-  <img src="https://i.ibb.co/X56zB1t/image-1.png" />
+  <img src="https://i.ibb.co/X56zB1t/image-1.png" alt="OneDot Communication Ltd Logo"/>
 </p>
 
-### Welcome to HyperN!NJa OS - Android 14 Edition 📱
 
-<p>"Experience the evolution of Android with Andromeda OS! Our latest update introduces minimal UI enhancements, delivering a seamless and customizable stock Android experience."</p>
+# 🚀 **Welcome to OneDot Communication Ltd** 
 
-Explore the power of Andromeda OS through our captivating [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectninjaos.com/gallery). Let the screenshots speak for themselves!
+**"AI can't take over us; We take over AI...!"** 🤖💪
 
-### ⊀ Unleash Innovation ⊁
+---
 
-Embark on a journey of innovation with Andromeda OS. Our ROM ensures a buttery-smooth Android experience without compromising quality.
+### About Us
 
-[![Download HyperN!njA OS [Custom ROM]](https://img.shields.io/sourceforge/dm/ninja-os.svg)](https://projectninjaos.com/download) <img src="https://komarev.com/ghpvc/?username=Project-NinjA&style=flat-square" alt="Project-NinjA" />  [![Download HyperN!NJa OS [Custom ROM]](https://img.shields.io/sourceforge/dt/ninja-os.svg)](https://projectandromedaos.com/download) 
+Welcome to **OneDot Communication Ltd**, where innovation meets communication. Founded by [Divith S](#) along with co-founders [Krishneshwaran D](#) and [Dilan Melvin T](#), our mission is to transform the communication landscape with groundbreaking AI solutions. Our dedicated team is at the forefront of technological advancements, ensuring that you stay ahead in the game.
 
-Andromeda OS is an AOSP-based custom Android ROM with great performance, security, and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. It's pretty good, innit?
+---
 
-> [!CAUTION]
-> - Your warranty is void. Or valid, probably?
-> - Andromeda OS holds no liability for any device damage caused by user actions.
+### What We Offer
 
-> [!Warning]
-> * Installing custom ROMs or kernels may carry risks.
-> * User discretion is advised; proceed with caution.
-> * Backup your data before proceeding with ROM installation.
-> * Ensure your device is fully charged before initiating the installation process.
+- **Cutting-Edge AI Solutions:** Leverage the latest in AI technology to revolutionize your communication strategies.
+- **Custom Development:** Tailored solutions designed to meet your specific needs and challenges.
+- **Consulting Services:** Expert guidance on integrating advanced AI into your business operations.
 
-> [!Tip]
-> **Guidelines for Users:**  
-> * Follow instructions meticulously for a successful installation.
-> * Contact our support group if issues arise during the process.
-> * Ensure an unlocked bootloader and necessary tools on your PC.
-> * Always perform a clean flash when transitioning to a new Android version.
+---
 
-### Explore Our Git Repositories
-* [**HyperN!NJa OS Manifest**](https://github.com/Project-NinjA/manifest)
-* [**HyperN!NJa OS Vendor**](https://github.com/Project-NinjA/vendor_aosp)
-* [**HyperN!NJa OS Devices**](https://github.com/ProjectNinjA-Devices)
-* Use this [**commit**](https://github.com/ProjectNinjA-Devices/device_xiaomi_sweet/commit/7e3fd483f02bf4f8a5d23c35b6f1692aec35a2fb) as a reference.
+### Why Choose Us?
 
-> [!Important]
-> **Key Links for HyperN!NJa OS**
-> * [**Maintainers Requirements**](https://projectninjaos.com/documentation)
-> * [**Device Requirements**](https://projectninjaos.com/documentation)
-> * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
-> * [**XDA Template**](https://raw.githubusercontent.com/Project-NinjA/docs/Tiramisu/xda_template.txt)
+- **Innovative Technology:** Our solutions are built on state-of-the-art technology, ensuring superior performance and reliability.
+- **Expert Team:** A group of highly skilled professionals committed to pushing the boundaries of what’s possible.
+- **Client-Centric Approach:** We prioritize your needs and work closely with you to achieve your goals.
 
-### Official Support Group & Channel
- * [**HyperN!NJa OS Telegram Channel**](https://telegram.me/noobninja_os)
- * [**HyperN!NJa OS Telegram Group**](https://telegram.me/noobninja_os)
- 
-Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/noobninja_os) Support Group!
+---
 
-### Official Website and Downloads
- * [**HyperN!NJa OS Website**](https://projectninjaos.com/)
- * [**HyperN!NJa OS Team**](https://projectninjaos.com/team)
- * [**HyperN!NJa OS Downloads**](https://projectninjaos.com/download)
- * [**HyperN!NJa OS Changelog**](https://projectninjaos.com/changelog)
+### Our Founders
 
-### Contact in Emergency
-* [**Divith S ( NINJa ) - Lead Developer**](https://telegram.me/ninjaonsteroids) - [**[GitHub Profile]**](https://github.com/Divith123)
-  
-> [!Note] 
-> * For urgent needs, feel free to contact us on provided links. And for personal build requests, Patreon, donations, suggestions, sponsorship, personal device support, join our Telegram group or respective platforms like Patreon chat. Don't PM unnecessarily !!
+- **[Divith S](#)** - *Founder & Visionary Leader*
+- **[Krishneshwaran D](#)** - *Co-Founder & Technology Expert*
+- **[Dilan Melvin T](#)** - *Co-Founder & Innovation Strategist*
 
-### Help to keep HyperN!NJa OS active and running by donating. 
-Any amount is appreciated. 
+---
 
-UPI: noobninja@oksbi
+### Join Us on Our Journey
 
-<br>
+- **[Explore Our Solutions](#)** - Discover how our innovative solutions can transform your communication.
+- **[Download Our Whitepaper](#)** - Get detailed insights into our technology and approach.
+- **[Contact Us](mailto:info@onedotcommunication.com)** - We’d love to hear from you!
+
+---
+
+### Connect with Us
 
 <p align="center">
-  <img src="https://i.ibb.co/X56zB1t/image-1.png" />
+  <a href="https://www.linkedin.com/company/onedot-communication" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/OneDotComm" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/OneDotCommunication" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Like-blue" alt="Facebook" />
+  </a>
 </p>
+
+---
+
+### Get Involved
+
+- **[Join Our Team](t.me/ninjaonsteroids)** - Interested in joining our dynamic team? Check out current opportunities.
+- **[Contribute](#)** - Looking to collaborate? Let’s discuss how we can work together.
+- **[Feedback](mailto:onedotcommunications@gmail.com)** - We value your feedback and suggestions.
+
+---
+
+### Support Us
+
+Help us continue to innovate and improve by supporting our mission. Every contribution helps us advance our technology and reach new milestones.
+
+- **[Donate](#)** - Support our work with a donation.
+- **[Become a Sponsor](#)** - Explore sponsorship opportunities to partner with us.
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/X56zB1t/image-1.png" alt="OneDot Communication Ltd Logo"/>
+</p>
+
+---
