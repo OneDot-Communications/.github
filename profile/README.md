@@ -9,9 +9,6 @@
   <a href="https://github.com/OneDot-Communications">
     <img src="https://img.shields.io/github/stars/OneDot-Communications?style=social" alt="GitHub stars"/>
   </a>
-  <a href="https://github.com/OneDot-Communications">
-    <img src="https://img.shields.io/github/forks/OneDot-Communications?style=social" alt="GitHub forks"/>
-  </a>
 </p>
 
 ---
