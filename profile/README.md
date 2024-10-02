@@ -1,5 +1,3 @@
-use some icons of github readme creator webistes online or anysle some others github readme , to give a morea ttractive readme like google tesla openai in github
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/166745812?s=200&v=4" alt="OneDot Communication Ltd Logo" width="300"/>
 </p>
