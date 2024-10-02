@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/RgN0MXR/Artboard-1-100.jpg" alt="OneDot Communication Ltd Logo" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/166745812?s=200&v=4" alt="OneDot Communication Ltd Logo" width="300"/>
 </p>
 
 <p align="center"> <span style="font-size: 48px; font-weight: bold;">OneDot Communications Ltd</span> </p> <p align="center"> <span style="font-size: 24px;">"AI can't take over us; We take over AI...!"</span> </p>
