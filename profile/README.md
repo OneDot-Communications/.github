@@ -91,5 +91,5 @@ Help us continue innovating in AI and communication technologies!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDot-CommunicationLtd&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDot-Communications&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400"/>
 </p>
