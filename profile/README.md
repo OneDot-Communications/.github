@@ -44,11 +44,11 @@ Welcome to **OneDot Communications Ltd**, where innovation meets communication e
 ## **Our Founders**
 
 - **[Divith S](#)** - *Founder & Visionary Leader*  
-  ![Divith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivithS&show_icons=true&theme=radical)
+  ![Divith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&theme=radical)
 - **[Krishneshwaran D](#)** - *Co-Founder & Technology Expert*  
-  ![Krishneshwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishneshwaranD&show_icons=true&theme=merko)
+  ![Krishneshwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishneshwaran&show_icons=true&theme=merko)
 - **[Dilan Melvin T](#)** - *Co-Founder & Innovation Strategist*  
-  ![Dilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilanMelvinT&show_icons=true&theme=cobalt)
+  ![Dilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanmelvin&show_icons=true&theme=cobalt)
 
 ---
 
