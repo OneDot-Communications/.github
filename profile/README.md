@@ -6,14 +6,11 @@
 <p align="center"><em>"AI can't take over us; We take over AI...!"</em></p>
 
 <p align="center">
-  <a href="https://github.com/OneDotCommunicationLtd">
+  <a href="https://github.com/OneDot-CommunicationLtd">
     <img src="https://img.shields.io/github/stars/OneDotCommunicationLtd?style=social" alt="GitHub stars"/>
   </a>
-  <a href="https://github.com/OneDotCommunicationLtd">
+  <a href="https://github.com/OneDot-CommunicationLtd">
     <img src="https://img.shields.io/github/forks/OneDotCommunicationLtd?style=social" alt="GitHub forks"/>
-  </a>
-  <a href="https://twitter.com/OneDotComm">
-    <img src="https://img.shields.io/twitter/follow/OneDotComm?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
@@ -94,5 +91,5 @@ Help us continue innovating in AI and communication technologies!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDotCommunicationLtd&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDot-CommunicationLtd&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400"/>
 </p>
