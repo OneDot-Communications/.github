@@ -54,7 +54,7 @@ Welcome to **OneDot Communication Ltd**, where innovation intersects with commun
 
 ### **Get Involved**
 
-- **[Join Our Team](t.me/ninjaonsteroids)** - Explore current opportunities and become part of our dynamic team.
+- **[Join Our Team](https://t.me/ninjaonsteroids)** - Explore current opportunities and become part of our dynamic team.
 - **[Contribute](#)** - Interested in collaboration? Let’s discuss how we can work together.
 - **[Feedback](mailto:onedotcommunications@gmail.com)** - We value your feedback and suggestions.
 
