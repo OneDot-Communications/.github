@@ -6,11 +6,11 @@
 <p align="center"><em>"AI can't take over us; We take over AI...!"</em></p>
 
 <p align="center">
-  <a href="https://github.com/OneDot-CommunicationLtd">
-    <img src="https://img.shields.io/github/stars/OneDotCommunicationLtd?style=social" alt="GitHub stars"/>
+  <a href="https://github.com/OneDot-Communications">
+    <img src="https://img.shields.io/github/stars/OneDot-Communications?style=social" alt="GitHub stars"/>
   </a>
-  <a href="https://github.com/OneDot-CommunicationLtd">
-    <img src="https://img.shields.io/github/forks/OneDotCommunicationLtd?style=social" alt="GitHub forks"/>
+  <a href="https://github.com/OneDot-Communications">
+    <img src="https://img.shields.io/github/forks/OneDot-Communications?style=social" alt="GitHub forks"/>
   </a>
 </p>
 
@@ -60,13 +60,13 @@ Welcome to **OneDot Communications Ltd**, where innovation meets communication e
 ## **Connect with Us**
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/onedot-communication" target="_blank">
+  <a href="https://www.linkedin.com/company/onedot-communications" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/OneDotComm" target="_blank">
+  <a href="https://twitter.com/OneDotCommunications" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.facebook.com/OneDotCommunication" target="_blank">
+  <a href="https://www.facebook.com/OneDotCommunications" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
